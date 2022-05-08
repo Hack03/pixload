@@ -413,25 +413,7 @@ payload.webp: RIFF (little-endian) data, Web/P image
 00000020  07 00 2a 2f 3d 31 3b 3c  73 63 72 69 70 74 20 73  |..*/=1;<script s|
 00000030  72 63 3d 2f 2f 65 78 61  6d 70 6c 65 2e 63 6f 6d  |rc=//example.com|
 00000040  3e 3c 2f 73 63 72 69 70  74 3e 3b                 |></script>;|
-0000004b
+0000004b See [pixload-webp(1)](https://github.com/chinarulezzz/pixload/blob/master/pixload-webp.1.pod) manual page for more information
 ```
 
-See [pixload-webp(1)](https://github.com/chinarulezzz/pixload/blob/master/pixload-webp.1.pod) manual page for more information.
 
-## LICENSE
-
-WTFPL. See [LICENSE](https://github.com/chinarulezzz/pixload/blob/master/LICENSE) for more information.
-
-## LEGAL DISCLAIMER
-
-The author does not hold any responsibility for the bad use
-of this tool, remember that attacking targets without prior
-consent is illegal and punished by law.
-
-## DONATIONS
-
-- BTC: `bc1qj4g98svq6qh3q2ap37v52nsvusa76c3cnmcdmx`
-
-- PAYPAL: `alexandr.savca89@gmail.com`
-
-Highly appreciated.
